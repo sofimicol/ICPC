@@ -55,3 +55,6 @@ In the sample, Magikarp can move to the left 6
 It can be proven that no shorter route exists.
 
 <img width="626" height="499" alt="image" src="https://github.com/user-attachments/assets/50e53505-e999-4f19-87a9-fb6439ec3123" />
+
+
+https://codeforces.com/gym/106387/problem/A
