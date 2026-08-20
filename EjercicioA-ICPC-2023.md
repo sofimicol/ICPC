@@ -26,12 +26,4 @@ Una única línea con `N` enteros, las cantidades de alfajores que quedaron en l
 
 ## Ejemplo de entrada 1
 
-```text
-3 3
-140 79 5
-90 42 5
-
-Ejemplos
-Ejemplo	Entrada	Salida
-1	3 3<br>140 79 5<br>90 42 5	3 2 0
-2	10 8<br>120 456 7458 84 123 84 213 185 987 654<br>97 73 61 41 52 23 11 7	0 0 2 0 3 0 1 4 6 0
+<img width="837" height="345" alt="image" src="https://github.com/user-attachments/assets/9603cfc3-a15c-4007-9643-458808c915df" />
